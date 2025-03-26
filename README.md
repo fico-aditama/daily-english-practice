@@ -1,7 +1,6 @@
 # Project: Futuristic Video Script Series
 
 ## Overview
-This project is a collection of video scripts exploring cutting-edge topics projected toward 2030, created through a collaborative process with Grok 3, an AI developed by xAI. The scripts are designed for short-form videos (3-4 minutes, ~500 words each), written in English at language proficiency levels ranging from B1 (intermediate) to C2 (advanced). Each script delves into a specific theme, blending current trends as of March 25, 2025, with speculative insights into the future.
 
 ## Purpose
 The primary goals of this project are:
