@@ -64,3 +64,8 @@ Use the self-assessment questions at the end of each day to:
 - Set goals for the next day
 
 Remember: Consistent practice is key to improving your English skills. Stay motivated and enjoy the learning journey!
+
+
+```
+start over from day16 and bahas yang terjadi seminggu ini tentang odoo,AI,Blockchain dan ga boleh sama dengan day1-16, atau boleh juga tentang world dunia sekarang masalah apa isue apa panas apa
+```
